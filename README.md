@@ -1,0 +1,1 @@
+# kubernetes-certified-admin-notes
